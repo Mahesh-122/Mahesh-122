@@ -6,6 +6,7 @@
 <h1 align="center">Hi 👋, I'm N S Mahesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
+<p align="left"> <a href="https://twitter.com/maheshnaik65650" target="blank"><img src="https://img.shields.io/twitter/follow/maheshnaik65650?logo=twitter&style=for-the-badge" alt="maheshnaik65650" /></a> </p>
 - 🔭 I’m currently working on **Fairway Web App**
 
 - 🌱 I’m currently learning **NodeJs Mongodb**
